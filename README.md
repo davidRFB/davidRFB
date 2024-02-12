@@ -2,7 +2,7 @@
 - 👀 I’m interested in molecular modelling and machine learning.
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on computational chemistry and machine learning
-- 📫 How to reach me : email: dr.figueroa10@uniandes.edu.co
+- 📫 How to reach me : email: david.refibla@gmail.com
 
 <!---
 davidRFB/davidRFB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
